@@ -4,7 +4,7 @@ title: Contact
 ---
 
 <p class="message">
-  Contact - Email - sushmaramanna.contact@gmail.com 
+  <b>Email -</b> sushmaramanna.contact@gmail.com 
 </p>
 
  Contact Form
