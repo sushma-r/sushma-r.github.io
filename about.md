@@ -4,18 +4,18 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hey there! I’m a Web Developer and Designer from Mandya, India!
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+ I enjoy taking complex problems. I also love the logic and structure of coding and always strive to write elegant and efficient code, whether it be PHP, MySql, GIT, HTML, CSS, jQuery, frameworks or new technologies. 
 
 There are currently two themes built on Poole:
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+*  Working with a passion for developing great websites with very good performance & designing beautiful and functional user experiences.
+*  Minimalist who believes that less is more.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
+<!-- Learn more and contribute on [GitHub](https://github.com/poole).
+ 
 ## Setup
 
 Some fun facts about the setup of this project include:
@@ -27,4 +27,4 @@ Some fun facts about the setup of this project include:
 
 Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
 
-Thanks for reading!
+Thanks for reading!-->
