@@ -7,10 +7,10 @@ title: About
   I’m a Developer & Web Artisan from Mandya, India!
 </p>
 
- I enjoy taking complex problems. I also love the logic and structure of coding and always strive to write elegant and efficient code, whether it be PHP, MySql, GIT, HTML, CSS, jQuery, frameworks or new technologies. 
+ I enjoy taking complex problems. I also love the logic and structure of coding and always strive to write elegant and efficient code, whether it be PHP, MySql, HTML, CSS, jQuery, frameworks or new technologies. 
 
-*  Working with a passion for developing great websites with very good performance & designing beautiful and functional user experiences.
-*  Minimalist who believes that less is more.
+ I work with passion for developing great websites with very good performance & designing beautiful and functional user experiences.
+ Minimalist who believes that less is more.
 
 <!-- Learn more and contribute on [GitHub](https://github.com/poole).
  
