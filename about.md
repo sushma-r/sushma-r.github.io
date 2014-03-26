@@ -4,12 +4,10 @@ title: About
 ---
 
 <p class="message">
-  Hey there! I’m a Web Developer and Designer from Mandya, India!
+  I’m a Developer & Web Artisan from Mandya, India!
 </p>
 
  I enjoy taking complex problems. I also love the logic and structure of coding and always strive to write elegant and efficient code, whether it be PHP, MySql, GIT, HTML, CSS, jQuery, frameworks or new technologies. 
-
-There are currently two themes built on Poole:
 
 *  Working with a passion for developing great websites with very good performance & designing beautiful and functional user experiences.
 *  Minimalist who believes that less is more.

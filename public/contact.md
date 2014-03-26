@@ -8,8 +8,8 @@ title: Contact
 </p>
 
 <ul class="style-none">
-    <li><a class="facebook" target="_blank" href="http://www.facebook.com/ilikesushmaramanna">Like me on Facebook</a></li>
-    <li><a class="twitter" target="_blank" href="http://www.twitter.com/SushmaRamanna">Follow me on Twitter</a></li>
+    <!-- <li><a class="facebook" target="_blank" href="https://www.facebook.com/sushma.ramanna">Like me on Facebook</a></li> -->
+    <li><a class="twitter" target="_blank" href="https://twitter.com/sushmaramanna">Follow me on Twitter</a></li>
     <li><a class="linkedin" target="_blank" href="http://www.linkedin.com/in/sushmaramanna">Connect with me on LinkedIn</a></li>
 </ul>
 
