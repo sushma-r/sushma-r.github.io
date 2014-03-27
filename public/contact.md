@@ -7,10 +7,10 @@ title: Contact
   <b>Email -</b> sushmaramanna.contact@gmail.com 
 </p>
 <p>
-	<img src="/public/twitter.jpg" alt="Twitter" /><a target="_blank" href="https://twitter.com/sushmaramanna">Follow me on Twitter</a>
+	<a class="twitter" target="_blank" href="https://twitter.com/sushmaramanna">Follow me on Twitter</a>
 </p>
 <p>
-	<img src="/public/linkedin.jpg" alt="Linkedin" /><a target="_blank" href="http://www.linkedin.com/in/sushmaramanna">Connect with me on LinkedIn</a>
+	<a class="linkedin" target="_blank" href="http://www.linkedin.com/in/sushmaramanna">Connect with me on LinkedIn</a>
 </p>
 
 

@@ -230,6 +230,18 @@ tbody tr:nth-child(odd) th {
  * Extend paragraphs with `.lead` for larger introductory text.
  */
 
+.twitter{
+  background: url('/public/twitter.jpg') no-repeat;
+  padding-left: 40px;
+  padding-bottom: 15px;
+}
+
+.linkedin{
+  background: url('/public/linkedin.jpg') no-repeat;
+  padding-left: 40px;
+  padding-bottom: 15px;
+}
+
 .lead {
   font-size: 1.25rem;
   font-weight: 300;
