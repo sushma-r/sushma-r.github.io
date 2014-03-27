@@ -8,6 +8,7 @@ title: About
 </p>
 
  I enjoy taking complex problems. I also love the logic and structure of coding and always strive to write elegant and efficient code, whether it be PHP, MySql, HTML, CSS, jQuery, frameworks or new technologies. 
+ I'm working particularly with PHP, the LAMP stack and related technologies. My main interests lie in working with open source software and building excellent applications.
 
  I work with passion for developing great websites with very good performance & designing beautiful and functional user experiences.
  Minimalist who believes that less is more.

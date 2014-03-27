@@ -6,13 +6,15 @@ title: Contact
 <p class="message">
   <b>Email -</b> sushmaramanna.contact@gmail.com 
 </p>
+<p>
+	<img src="/public/twitter.jpg" alt="Twitter" /><a target="_blank" href="https://twitter.com/sushmaramanna">Follow me on Twitter</a>
+</p>
+<p>
+	<img src="/public/linkedin.jpg" alt="Linkedin" /><a target="_blank" href="http://www.linkedin.com/in/sushmaramanna">Connect with me on LinkedIn</a>
+</p>
 
-<ul class="style-none">
-    <!-- <li><a class="facebook" target="_blank" href="https://www.facebook.com/sushma.ramanna">Like me on Facebook</a></li> -->
-    <li><img src="/public/twitter.jpg" alt="Twitter" width="35" height="35" /><a class="twitter" target="_blank" href="https://twitter.com/sushmaramanna">Follow me on Twitter</a></li>
-    <li><img src="/public/linkedin.jpg" alt="Linkedin" width="35" height="35" /><a class="linkedin" target="_blank" href="http://www.linkedin.com/in/sushmaramanna">Connect with me on LinkedIn</a></li>
-</ul>
 
+<!-- <li><a class="facebook" target="_blank" href="https://www.facebook.com/sushma.ramanna">Like me on Facebook</a></li> -->
 <!-- Learn more and contribute on [GitHub](https://github.com/poole).
  
 ## Setup
