@@ -28,4 +28,4 @@ foreach ($alphabet as $alphabets) {
 
 When variable $alphabets is initialized with getAlphabets() function, Generator object is returned. And when it is iterated over the foreach loop, each time it goes back to getAlphabets() function and yeilds the next value.
 
-By this time you might be thinking why the fuck we need generators, when we can return the array of values. Well, generators come in handy when you are working with the large data sets that could out run PHP memory limits. Besides generators outperform both in memory usage and speed over the iterators.
+By this time you might be thinking why we need generators, when we can return the array of values. Well, generators come in handy when you are working with the large data sets that could out run PHP memory limits. Besides generators outperform both in memory usage and speed over the iterators.
