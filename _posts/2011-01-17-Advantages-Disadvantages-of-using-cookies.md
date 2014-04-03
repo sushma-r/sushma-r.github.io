@@ -3,7 +3,7 @@ layout: post
 title: Advantages & Dis-advantages of using cookies
 ---
 
-When the user accesses more than one page on your site, the user's browser sends any valid cookies on those accesses back to the server. Because storing any kind of data on a user's computer without his knowledge is a  security risk, you don't have direct control over how to store cookies. There are certain rules that the browser  sets up, and if you follow the rules, the browser will accept your cookies and will send them back under the correct circumstances.
+When the user accesses more than one page on your site, the user's browser sends any valid cookies on those accesses back to the server. Because storing any kind of data on a user's computer without his knowledge is a security risk, you don't have direct control over how to store cookies. There are certain rules that the browser sets up, and if you follow the rules, the browser will accept your cookies and will send them back under the correct circumstances.
 
 ###Advantages
 

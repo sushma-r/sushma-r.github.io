@@ -31,16 +31,3 @@ Laravel is a web application framework with expressive, elegant syntax and with 
 	
 	TDD is a developement process where it employs test first and code later approach. TDD in laravel is marvelous. 
 
-```
-<?php
-function getAlphabets(){
-  yeild "A";
-  yeild "B";
-  yeild "C";
-  yeild "D";
-}
-$alphabets = getAlphabets();
-foreach ($alphabet as $alphabets) {
-    echo $alphabet;
-}
-```
