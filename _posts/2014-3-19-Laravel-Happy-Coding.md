@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Generators in PHP 5.5
+title: Laravel - Happy Coding
 ---
 
 Laravel is a web application framework with expressive, elegant syntax and with the amazing following features.
