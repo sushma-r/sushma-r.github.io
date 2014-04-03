@@ -12,6 +12,9 @@ title: Contact
 <p>
 	<a class="linkedin" target="_blank" href="http://www.linkedin.com/in/sushmaramanna">Connect with me on LinkedIn</a>
 </p>
+<p>
+	<a class="github" target="_blank" href="https://github.com/sushma-ramanna3">Connect with me on GitHub</a>
+</p>
 
 
 <!-- <li><a class="facebook" target="_blank" href="https://www.facebook.com/sushma.ramanna">Like me on Facebook</a></li> -->

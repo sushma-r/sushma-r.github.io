@@ -242,6 +242,12 @@ tbody tr:nth-child(odd) th {
   padding-bottom: 15px;
 }
 
+.linkedin{
+  background: url('/public/github.jpg') no-repeat;
+  padding-left: 40px;
+  padding-bottom: 15px;
+}
+
 .lead {
   font-size: 1.25rem;
   font-weight: 300;
