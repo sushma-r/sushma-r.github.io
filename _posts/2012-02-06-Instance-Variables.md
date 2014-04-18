@@ -22,7 +22,7 @@ class PurchaseDetials(){
      
     public __construct($database, $userDetails){
         $this->database = $database;
-        $this->userDetails = $userDetials
+        $this->userDetails = $userDetails
     }
      
     function getPurchaseDetails(){
