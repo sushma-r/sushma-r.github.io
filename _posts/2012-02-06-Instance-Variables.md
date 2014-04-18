@@ -26,7 +26,7 @@ class PurchaseDetials(){
     }
      
     function getPurchaseDetails(){
-        $this->datase->query( SELECT * FROM purchase_details );
+        $this->database->query( SELECT * FROM purchase_details );
     }
 }
 ``` 
