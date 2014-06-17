@@ -9,7 +9,7 @@ __autoload() function is used to load the classes automatically on the fly. When
 //File Name : User.php
 class User{
     function getName(){
-        return "Nandeesh Mp";
+        return "Developer";
     }
 }
  ```
