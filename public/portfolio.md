@@ -10,7 +10,7 @@ title: Portfolio
 <ul>
 	<li><a href="http://www.learnwithflip.com/">FLIP</a></li>
 	<li>FLIP sub domains - <a href="http://jobs.learnwithflip.com/">Job portal</a> and <a href="http://franchisee.learnwithflip.com/login">Franchisee portal</a></li>
-	<li><a href="http://ultratick.com">ULTRATICK product</a></li>
+	<li><a href="http://ultratick.com">Ultratick product</a></li>
 	<li><a href="myshore.in">KDOL</a></li>
 	<li>Worked on 'A Big data project on Apache Hadoop' project</li>
 	<li><a href="http://www.mysta.co.in">Mysta Enterprises</li>
