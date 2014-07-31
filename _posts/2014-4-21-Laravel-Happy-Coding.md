@@ -31,3 +31,5 @@ Laravel is a web application framework with expressive, elegant syntax and with 
 	
 	TDD is a developement process where it employs test first and code later approach. TDD in laravel is marvelous. 
 
+* Pagination feature, Passing variables by view, Override default fields, Remember clause, Fluent Lists etc etc,.
+
