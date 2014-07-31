@@ -21,7 +21,7 @@ function getAlphabets(){
   yeild "D";
 }
 $alphabets = getAlphabets();
-foreach ($alphabet as $alphabets) {
+foreach ($alphabets as $alphabet) {
     echo $alphabet;
 }
 ```
