@@ -4,7 +4,7 @@ title: Contact
 ---
 
 <p class="message">
-  <b>Email -</b> sushmar.contact@gmail.com 
+  <b>Email -</b> contact@sushmaramanna.com <!--sushmar.contact@gmail.com -->
 </p>
 <p>
 	<a class="linkedin" target="_blank" href="http://www.linkedin.com/in/sushmaramanna">Connect with me on LinkedIn</a>
