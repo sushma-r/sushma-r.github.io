@@ -8,6 +8,8 @@ title: Portfolio
 <p>List of applications developed and designed - </p>
 
 <ul>
+        
+	<li><a href="https://eams.ericsson.net/eams/web/login">EAMS Ericsson</a></li>
 	<li><a href="http://www.learnwithflip.com/">FLIP</a></li>
 	<li>FLIP sub domains - <a href="http://jobs.learnwithflip.com/">Job portal</a> and <a href="http://franchisee.learnwithflip.com/login">Franchisee portal</a></li>
 	<li><a href="http://ultratick.com">Ultratick product</a></li>
