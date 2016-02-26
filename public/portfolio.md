@@ -3,7 +3,7 @@ layout: page
 title: Portfolio
 ---
 
-<p class="message">I'm a Senior Web Developer with a proven development experience on Open-Source projects, using a wide range of technologies and extremely comfortable using Linux. 3.10 Years of development and design experience in PHP web applications.</p>
+<p class="message">I'm a Senior Web Developer with a proven development experience on Open-Source projects, using a wide range of technologies and extremely comfortable using Linux and Windows. 5.5 Years of development and design experience in PHP web applications.</p>
 
 <p>List of applications developed and designed - </p>
 
