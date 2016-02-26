@@ -1,0 +1,25 @@
+---
+layout: post
+title: Symfony
+---
+
+Symfony is a reusable set of standalone, decoupled, and cohesive PHP components that solve common web development problems and with the amazing following features.
+
+* Symfony can be viewed as a project rather than just a framework, because you can choose from the Silex micro-framework.
+
+* Symfony is extensively incorporated by multiple large companies such as BBC and CBS and popular websites such as wetter.com, Lockers and TED. It also has powered many open-source projects including Drupal and eZpublish, the PHPUnit and Doctrine libraries, the phpBB and Shopware products etc.
+
+* Symfony enjoys an immense community of contributors and users. Over 500 people have contributed to its core over the last year while the community has accumulated more than 1600 bundles applicable to the full-stack framework.
+
+* Symfony provides a tight integration of many external open-source projects in it in order to avoid “wheel reinvention”
+
+* Beautiful Templating
+	
+	Symfony uses a powerful templating engine called Twig, is driven by template inheritance and sections.
+
+* Composer
+
+	Composer is an amazing tool to manage application's third-party packages.
+
+* The framework is aimed at the PHP language innovation. This is indicated by Symfony’s pioneering embrace of PHP 5.3, Dependency Injection container introduction, template engine adoption (followed by Drupal, eZpublish and other major CMSes) etc. Among Symfony’s unique features are the amazing built-in profiler, compelling debug toolbar and others
+
